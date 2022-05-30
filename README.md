@@ -32,5 +32,5 @@ for i in os.listdir(img):
     im.paste(logo, (x,y))
     im.save(file)
 ```
-![](hakon-sataoen-qyfco1nfMtg-unsplash.jpg)
 ___
+![Screenshot](img//hakon-sataoen-qyfco1nfMtg-unsplash.jpg)
